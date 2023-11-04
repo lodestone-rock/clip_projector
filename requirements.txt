@@ -1,0 +1,12 @@
+optax
+flax
+black
+tf-nightly
+tb-nightly
+tbp-nightly
+tqdm
+huggingface_hub
+hf_transfer
+pandas
+transformers
+sentencepiece
