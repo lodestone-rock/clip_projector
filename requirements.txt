@@ -8,5 +8,7 @@ tqdm
 huggingface_hub
 hf_transfer
 pandas
-transformers
+transformers==4.34.1
 sentencepiece
+safetensors
+torch
